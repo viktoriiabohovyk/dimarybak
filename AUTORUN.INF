@@ -1,0 +1,6 @@
+[AutoRun]
+shellexecute=CDStart.exe
+sku=2
+product=3
+trial=60
+icon=IHE_PDI\RESOURCE\IMAGES\CDSURF.ICO,0
